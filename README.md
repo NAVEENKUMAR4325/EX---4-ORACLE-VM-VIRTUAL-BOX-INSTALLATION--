@@ -1,4 +1,4 @@
-## Ex.3(A-C) Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
+## Ex.3(A) Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
 
 ## NAME: Naveen Kumar E
 ## REG NO:212222220029
